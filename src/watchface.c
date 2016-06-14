@@ -2,6 +2,8 @@
 
 static Window *s_main_window;
 
+static TextLayer *s_time_layer;
+
 static void main_window_load(Window *window) {
 
 }
